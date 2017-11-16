@@ -16,7 +16,7 @@ header {
     height: 100px;
     text-align: center;
     color: #777777;
-    line-height: 50px;
+    line-height: 100px;
 }
 
 nav {
@@ -24,6 +24,50 @@ nav {
     height: 100px;
     text-align: center;
     color: #777777;
-    line-height: 50px;
-    margin: 5px 0 0 0;
+    line-height: 100px;
+    margin: 10px 0 0 0;
+}
+
+section {
+    background-color: #cccbcb;
+    width: 495px;
+    text-align: center;
+    color: #777777;
+    margin: 10px 0 0 0;
+    float: left;
+    height: 300px;
+
+}
+
+
+article {
+    background-color: #777777;
+    margin: 50px 10px 10px 10px;
+    color: #cccbcb;
+}
+
+.headers {
+    background-color: #cccbcb;
+    
+
+}
+
+aside {
+    background-color: #cccbcb;
+    text-align: center;
+    color: #777777;
+    height: 300px;
+    margin: 10px 0 10px 10px;
+    float: right;
+    width: 455px;
+}
+
+footer{
+    clear: both;
+    background-color: #cccbcb;
+    height: 100px;
+    text-align: center;
+    color: #777777;
+    line-height: 100px;
+    margin: 10px 0 0 0;
 }
